@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon site minimaliste</title>
+</head>
+<body>
+  <h1>Bienvenue sur ma page minimaliste</h1>
+  <p>Ceci est mon premier site hébergé avec GitHub Pages.</p>
+</body>
+</html>
